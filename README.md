@@ -269,47 +269,4 @@ Run tests with:
 flutter test
 ```
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Thien Nguyen**
-- GitHub: [@kh-thien](https://github.com/kh-thien)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-**Important for Contributors:**
-- Never commit Firebase configuration files
-- Always add API keys to `.gitignore`
-- Follow security best practices
-- Test with your own Firebase project
-
-## 📝 Development Notes
-
-### Recent Updates (December 2025)
-
-- ✅ Updated to Firebase SDK 12.4.0
-- ✅ Updated Android Gradle Plugin to 8.7.2
-- ✅ Updated iOS deployment target to 15.0
-- ✅ Fixed HydratedBloc storage initialization
-- ✅ Improved build performance and compatibility
-- ✅ Enhanced security by removing sensitive files from git history
-
-### Known Issues
-
-- Background playback may require additional permissions on some devices
-- Theme persistence requires app restart on some platforms
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase for backend services
-- Community contributors and package maintainers
-
----
-
-**⚠️ Security Reminder**: Always keep your Firebase configuration files and API keys private. Never share them publicly or commit them to version control.
